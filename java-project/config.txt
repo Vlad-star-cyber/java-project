@@ -1,2 +1,2 @@
 application.name=JavaProject
-application.mode=development
+application.mode=testing
